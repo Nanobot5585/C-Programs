@@ -1,4 +1,6 @@
-/* Willam Chien 02/15/2018*/
+/* Willam Chien 02/15/2018
+This Guessing Game doesn't give you any hints and only gives you 10 guesses.
+*/
 
 
 #include <iostream>
