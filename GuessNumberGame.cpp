@@ -1,4 +1,6 @@
-/* Willam Chien 02/15/2018*/
+/* Willam Chien 02/15/2018
+This program has you guess a number and tells you to go higher or lower until you pick the correct one.
+*/
 
 
 #include <iostream>
