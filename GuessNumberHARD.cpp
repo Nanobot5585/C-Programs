@@ -22,10 +22,6 @@ void guess(int x){
 
     int guessNumber = 0;
 
-
-
-   
-
     cout << "Pick your 1st number:" << endl;
     cin>>numbers[0];
     verify();
@@ -85,17 +81,7 @@ bool match = false;
 
     }
 
-
-
-
-
 }
-
-
-
-
-
-
 
 
 int main()
