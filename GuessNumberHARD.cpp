@@ -24,7 +24,7 @@ void guess(int x){
 
 
 
-    cout<<x<<endl;
+   
 
     cout << "Pick your 1st number:" << endl;
     cin>>numbers[0];
@@ -77,9 +77,8 @@ bool match = false;
 
         if(match){
         cout<<"Congrats you picked correctly! The correct number is " << x << endl;
-        }
-        }
-        else{
+                }
+        }else{
         cout<<"Bad pick!" << endl;
 
         }
