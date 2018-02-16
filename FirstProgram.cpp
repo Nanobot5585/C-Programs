@@ -1,4 +1,5 @@
 /*William Chien 02/15/2018
+This program calculates total payout of the sales and years-of-service bonus added on top of the yearly salary.
 */
 
 #include <iostream>
